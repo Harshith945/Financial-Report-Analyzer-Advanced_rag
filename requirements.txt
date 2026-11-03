@@ -1,0 +1,27 @@
+
+streamlit
+python-dotenv
+pandas
+pydantic
+docling
+
+# PDF extraction
+PyMuPDF
+pdfplumber
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-chroma
+langchain-experimental 
+langchain-huggingface
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+
+# Keyword retrieval
+rank-bm25
