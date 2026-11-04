@@ -6,5 +6,5 @@ __pycache__/
 chroma_db/
 data/extracted/
 data/processed/
-
+data/raw_pdfs/
 .DS_Store
